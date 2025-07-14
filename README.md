@@ -2,7 +2,7 @@ This is a stock information implement page demo for stark tech
 
 ## Getting Started
 
-1. live demo
+1. live demo (https://stockchart-silk.vercel.app/analysis/2330)
 2. clone to local: 於.env設定finmind api token (FINMIND_TOKEN) -> `npm i` -> `npm ren dev`
 
 ## Features
